@@ -43,7 +43,7 @@ double calculateCbrt(double num);
 int main() {
     int choice;
     
-    printf("============================================\n");
+    printf("====================BIN SULA========================\n");
     printf("    MAKERERE UNIVERSITY - CSC 1102\n");
     printf("    COURSEWORK 1 - CGPA & CALCULATOR\n");
     printf("============================================\n");
