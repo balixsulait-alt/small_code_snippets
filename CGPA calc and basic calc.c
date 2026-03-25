@@ -338,7 +338,7 @@ void calculateCGPA_While_IfElse() {
         if (creditUnits[i] > 0) {
             i++;
         } else {
-            printf("Credit units must be positive. Please try again.\n");
+            printf("Credit units must \"ONLY\" be positive. Please try again.\n");
         }
     }
     
