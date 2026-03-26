@@ -66,7 +66,7 @@ int main(){
 
 return 0;*/
 
-
+//BIN SULA SNIPPET
 
 typedef struct {
     char title[50];
