@@ -14,6 +14,7 @@ except ZeroDivisionError:
 try:
     report_file = open("report.txt", "r")
     print("Report loaded successfully.")
+    # close file
     report_file.close()
 except FileNotFoundError:
     print("File not found.")
