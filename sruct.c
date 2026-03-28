@@ -48,6 +48,7 @@ int main() {
     return 0;
 }
 
+//other structs  tests
 /*typedef struct we{
 	char nam[23];
 	int age;
