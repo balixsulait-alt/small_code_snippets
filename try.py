@@ -10,7 +10,7 @@ except ZeroDivisionError: #error handling
 
 
 
-###########################################################
+#######🤞🤞🤞 ############################################
     # Attempt to open report.txt and handle the case where the file is missing
 try:
     report_file = open("report.txt", "r")
