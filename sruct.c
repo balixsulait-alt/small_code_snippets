@@ -88,7 +88,7 @@ int main() {
     printf("Title: %s\n", wee->title);
     printf("Author: %s\n", wee->author);
     printf("Subject: %s\n", wee->subject);
-    printf("Book ID: %d\n", wee->book_id);
+    printf("Book ID: %d\n", wee->book_id); 
 
     return 0;
 }*/
