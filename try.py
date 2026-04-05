@@ -1,4 +1,4 @@
-print("Bin Sula") 
+print("Bin_Sula") 
 # Compute average amount per user while preventing division-by-zero
 amount_collected = int(input("amount_collected"))
 number_of_users = int(input("number_of_users"))
