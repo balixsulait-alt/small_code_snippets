@@ -9,7 +9,7 @@ except ZeroDivisionError: #error handling
     print("Error: Cannot divide by zero")
 
 
-print(next error check)
+print(\n next error check)
 #######🤞🤞🤞 ######################################
     # Attempt to open report.txt and handle the case where the file is missing
 try:
