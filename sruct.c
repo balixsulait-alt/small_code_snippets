@@ -13,7 +13,7 @@ struct Book {
 int main() {
     struct Book books[5];   // Array to store 3 books
 
-    // -------- Book 1 ****
+    // **** Book 1 ****
     strcpy(books[0].title, "C Programming");
     strcpy(books[0].author, "Dennis Ritchie");
     strcpy(books[0].subject, "Programming Language");
