@@ -5,6 +5,8 @@
  * Reg No: [25/U/03705/PS, 25/U/03831/PSA,25/U/03707/PS, 25/U/03815/PS, ]
  *students No: [2500703705 , 2500703831, 2500703707, 2500703815]*/
 
+
+//libraries
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
