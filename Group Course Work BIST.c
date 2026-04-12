@@ -12,6 +12,7 @@
 #include <stdlib.h>
 #include <math.h>
 
+Constants
 #define NUM_COURSES 4
 #define MAX_NAME 100
 
