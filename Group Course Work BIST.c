@@ -195,7 +195,7 @@ void calculateCGPA_ForLoop_If() {
     printf("CGPA = %.2f\n\n", cgpa);
 }
 
-  // CGPA: WHILE loop + IF-ELSE ladder
+  // CGPA: WHILE loop + IF-ELSE ladder//
 void calculateCGPA_WhileLoop_IfElse() {
     double totalPoints = 0.0, totalCredits = 0.0;
     int i = 0;
