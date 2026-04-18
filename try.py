@@ -4,7 +4,7 @@ amount_collected = int(input("amount_collected"))
 number_of_users = int(input("number_of_users"))
 try:
     avg = amount_collected / number_of_users
-    print("Average amount per user:", average)
+    print("Average amount per user:", avg)
 except ZeroDivisionError: #error handling
     print("Error: Cannot divide by zero")
 
