@@ -3,7 +3,7 @@ print("Bin_Sula") #hhggg
 amount_collected = int(input("amount_collected"))
 number_of_users = int(input("number_of_users"))
 try:
-    average = amount_collected / number_of_users
+    avg = amount_collected / number_of_users
     print("Average amount per user:", average)
 except ZeroDivisionError: #error handling
     print("Error: Cannot divide by zero")
