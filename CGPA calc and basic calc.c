@@ -42,6 +42,7 @@ double calculateLn(double num);
 double calculateSqrt(double num);
 double calculateCbrt(double num);
 
+//main function
 int main() {
     int choice;
     
