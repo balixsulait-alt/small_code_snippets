@@ -2,7 +2,7 @@
 #include <string.h>
 
 // Structure definition
-struct Book {
+/*struct Book {
     char title[50];
     char author[50]; //character array
     char subject[100];
@@ -46,7 +46,7 @@ int main() {
     }
 
     return 0;
-}
+}*/
 
 //other structs  tests
 /*typedef struct we{
@@ -69,7 +69,7 @@ return 0;*/
 
 //BIN SULA SNIPPET
 
-/*typedef struct {
+typedef struct {
     char title[50];
     char author[50];
     char subject[100];
@@ -91,4 +91,4 @@ int main() {
     printf("Book ID: %d\n", wee->book_id); 
 
     return 0;
-}*/
+}
