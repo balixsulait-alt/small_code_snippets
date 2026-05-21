@@ -1,4 +1,4 @@
-print("Bin_Sula") #hhggg
+print("Bin")
 # Compute avg amount per user while preventing division by zero error 
 amount_collected = int(input("amount_collected"))
 number_of_users = int(input("number_of_users"))
