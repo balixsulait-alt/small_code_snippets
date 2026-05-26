@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// Structure definition
+// Structure. definition
 /*struct Book {
     char title[50];
     char author[50]; //character array
