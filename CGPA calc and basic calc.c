@@ -208,7 +208,7 @@ void generateCalculatorNumbers(long long studentNum, double* num1, double* num2)
     int len = strlen(numStr);
     
     if (len < 4) {
-        // If student number has less than 4 digits, use default values
+        //for the If student number has less than 4 digits, use default values
         *num1 = 12.34;
         *num2 = 56.78;
         return;
