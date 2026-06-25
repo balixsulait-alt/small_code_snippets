@@ -1,3 +1,6 @@
+
+
+
 print("Bin")
 #division by zero error 
 amount_collected = int(input("amount_collected"))
