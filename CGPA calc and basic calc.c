@@ -5,6 +5,9 @@
 #include <math.h>
 #include <ctype.h>
 
+
+
+
 //defining constants
 #define MAX_COURSES 4
 #define MAX_NAME_LENGTH 100
