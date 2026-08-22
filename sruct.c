@@ -2,6 +2,7 @@
 #include <string.h>
 
 // Structure. definition
+//for a book is the model
 /*struct Book {
     char title[50];
     char author[50]; //character array
