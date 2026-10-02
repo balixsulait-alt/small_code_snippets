@@ -3,7 +3,7 @@
 
 
 // Structure. definition
-/*struct Book {
+struct Book {
     char title[50];
     char author[50]; //character array
     char subject[100];
@@ -66,8 +66,10 @@ int main(){
 	printf("%d", first.age);
 	printf("%s", first.nam);
 
-return 0;*/
+return 0;
 
+
+/*
 //BIN SULA SNIPPET
 
 typedef struct {
@@ -91,5 +93,5 @@ int main() {
     printf("Subject: %s\n", wee->subject);
     printf("Book ID: %d\n", wee->book_id); 
 
-    return 0;
+    return 0;*/
 }
