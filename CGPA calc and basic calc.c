@@ -3,10 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-#include <ctype.h>
-
-
-
+#include <ctype.h>
 
 //defining constants
 #define MAX_COURSES 4
